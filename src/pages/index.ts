@@ -1,0 +1,24 @@
+
+export { DashboardPage } from './DashboardPage';
+export { CoursesPage } from './CoursesPage';
+export { SyllabusPage } from './SyllabusPage';
+export { MappingPage } from './MappingPage';
+export { QuestionsPage } from './QuestionsPage';
+export { AssessmentPage } from './AssessmentPage';
+export { AttainmentPage } from './AttainmentPage';
+export { POAttainmentPage } from './POAttainmentPage';
+export { ReportsPage } from './ReportsPage';
+export { SystemHealthPage } from './SystemHealthPage';
+export { SuperAdminPage } from './SuperAdminPage';
+export { AssignmentsPage } from './AssignmentsPage';
+export { StudentResultsPage } from './StudentResultsPage';
+export { AIAgentsPage } from './AIAgentsPage';
+export { AnalyticsPage } from './AnalyticsPage';
+export { PredictiveAnalyticsPage } from './PredictiveAnalyticsPage';
+export { StatisticalAnalysisPage } from './StatisticalAnalysisPage';
+export { ExecutiveAnalyticsPage } from './ExecutiveAnalyticsPage';
+export { EnhancedAccreditationPage } from './EnhancedAccreditationPage';
+export { WorkflowsPage } from './WorkflowsPage';
+export { QuestionBankPage } from './QuestionBankPage';
+export { ExamBuilderPage } from './ExamBuilderPage';
+export { AssessmentsPage } from './AssessmentsPage';
